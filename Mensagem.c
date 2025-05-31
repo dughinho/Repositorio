@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
-	printf("Mensagem!");
+	printf("NOVA MENSAGEM INSERIDA!");
+	
 	return 0;
 }
